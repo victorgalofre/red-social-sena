@@ -2,10 +2,3 @@
   base = "/"
   publish = "/"
   command = "echo 'Static website build'"
-
-[build.environment]
-  NODE_VERSION = "18"
-  CI = "true"
-
-[context.production.environment]
-  NODE_ENV = "production"

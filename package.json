@@ -1,0 +1,12 @@
+{
+  "name": "red-social-sena",
+  "version": "1.0.0",
+  "description": "Red social para la comunidad SENA",
+  "scripts": {
+    "start": "echo 'Static website'",
+    "build": "echo 'No build needed for static website'"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
